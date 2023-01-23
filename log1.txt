@@ -1,0 +1,2 @@
+янв. 23, 2023 6:29:17 PM presenter.Presenter start
+INFO: Первое число 12,000+24,000i
